@@ -1,3 +1,9 @@
+The files in this repository used in the generation of my data science portfolio, which can be found at https://tomwaldin.github.io/
+
+Credit for html template below.
+
+------------------------------------------------------------------
+
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
