@@ -1,4 +1,4 @@
-The files in this repository used in the generation of my data science portfolio, which can be found at https://tomwaldin.github.io/
+The files in this repository are used in the generation of my data science portfolio, which can be found at https://tomwaldin.github.io/
 
 Credit for html template below.
 
